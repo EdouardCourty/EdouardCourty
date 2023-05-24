@@ -9,3 +9,5 @@ Here are some facts about me:
 - 🐿️ I'm always looking for a cool side-project to work on
 
 I'm the co-founder of [IMX Rarity](https://imxrarity.io), an NFT marketplace & ranking platform, built on the Immutable X blockchain.
+
+📖 I write on Medium about technical subjects (and sometimes about other stuff), if you want to read me, [click here](https://medium.com/@edouard.courty)!
