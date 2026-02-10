@@ -13,6 +13,7 @@ My latest projects are :
 - [Platform Parameter Bundle](https://github.com/EdouardCourty/platform-parameter-bundle) - A Symfony bundle simplifying platform-wide parameters usage for Symfony projects
 - [Doctrine Export Bundle](https://github.com/EdouardCourty/doctrine-export-bundle) - A Symfont bundle for exporting entities in various formats
 - [Sitemap Bundle](https://github.com/EdouardCourty/sitemap-bundle) - A Symfony bundle for generating sitemaps easily
+- [MCP Server Bundle](https://github.com/EdouardCourty/mcp-server-bundle) - A Symfony bundle for creating MCP servers easily
 - [XRPL PHP](https://github.com/EdouardCourty/xrpl-php) - A PHP implementation of the Ripple (XRP) blockchain protocol
 - [Strava Activity Exporter](https://github.com/EdouardCourty/strava-activity-exporter) - A Chrome extension to export Strava activities to JSON
 - [RealTimeSync](https://github.com/EdouardCourty/RealTimeSync) - A Java Minecraft plugin to synchronise the game time with the real life time
