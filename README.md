@@ -9,6 +9,7 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [PHP Casino](https://github.com/EdouardCourty/php-casino) - A set of utilities and domain classes for common casino games
 - [Tor PHP](https://github.com/EdouardCourty/tor-php) - An HTTP client wrapping Tor for anonymous scrapping and requesting
 - [Platform Parameter Bundle](https://github.com/EdouardCourty/platform-parameter-bundle) - A Symfony bundle simplifying platform-wide parameters usage for Symfony projects
 - [Doctrine Export Bundle](https://github.com/EdouardCourty/doctrine-export-bundle) - A Symfont bundle for exporting entities in various formats
