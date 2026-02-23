@@ -9,6 +9,8 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [DistributedDimensions](https://github.com/DistributedDimensions/DistributedDimensions) - A Minecraft plugin system that allows running each game dimension on their own server instance
+- [NoIteamBreak](https://github.com/EdouardCourty/NoItemBreak) - A Minecraft mod built with the Fabric toolchain to stop losing items when they're about to break
 - [PHP Casino](https://github.com/EdouardCourty/php-casino) - A set of utilities and domain classes for common casino games
 - [Tor PHP](https://github.com/EdouardCourty/tor-php) - An HTTP client wrapping Tor for anonymous scrapping and requesting
 - [Platform Parameter Bundle](https://github.com/EdouardCourty/platform-parameter-bundle) - A Symfony bundle simplifying platform-wide parameters usage for Symfony projects
@@ -24,7 +26,7 @@ My latest projects are :
 - [Helldivers 2 API](https://github.com/EdouardCourty/helldivers2-api) - A NPM module to interact with the Helldivers 2 game API
 - [Friends episode picker](https://github.com/EdouardCourty/friendsepisodepicker) - A website to randomly select a Friends episode to watch
 
-I'm the co-founder of [IMX Rarity](https://imxrarity.io), an NFT marketplace & ranking platform, built on the Immutable X blockchain.
+I was the co-founder of [IMX Rarity](https://imxrarity.io), an NFT marketplace & ranking platform, built on the Immutable X blockchain.
 
 📖 I write on Medium about technical subjects (and sometimes about other stuff), if you want to read me, [click here](https://medium.com/@edouard.courty)!
 
