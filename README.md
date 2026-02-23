@@ -10,7 +10,7 @@ Here are some facts about me:
 
 My latest projects are :
 - [DistributedDimensions](https://github.com/DistributedDimensions/DistributedDimensions) - A Minecraft plugin system that allows running each game dimension on their own server instance
-- [NoIteamBreak](https://github.com/EdouardCourty/NoItemBreak) - A Minecraft mod built with the Fabric toolchain to stop losing items when they're about to break
+- [NoItemBreak](https://github.com/EdouardCourty/NoItemBreak) - A Minecraft mod built with the Fabric toolchain to stop losing items when they're about to break
 - [PHP Casino](https://github.com/EdouardCourty/php-casino) - A set of utilities and domain classes for common casino games
 - [Tor PHP](https://github.com/EdouardCourty/tor-php) - An HTTP client wrapping Tor for anonymous scrapping and requesting
 - [Platform Parameter Bundle](https://github.com/EdouardCourty/platform-parameter-bundle) - A Symfony bundle simplifying platform-wide parameters usage for Symfony projects
