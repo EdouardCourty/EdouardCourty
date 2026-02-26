@@ -9,6 +9,7 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [PHP Text Chunker](https://github.com/EdouardCourty/PHPTextChunker) - A lightweight and memory-efficient text chunking PHP library.
 - [DistributedDimensions](https://github.com/DistributedDimensions/DistributedDimensions) - A Minecraft plugin system that allows running each game dimension on their own server instance
 - [NoItemBreak](https://github.com/EdouardCourty/NoItemBreak) - A Minecraft mod built with the Fabric toolchain to stop losing items when they're about to break
 - [PHP Casino](https://github.com/EdouardCourty/php-casino) - A set of utilities and domain classes for common casino games
