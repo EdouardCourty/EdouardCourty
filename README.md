@@ -9,6 +9,7 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [PHP Presidio Client](https://github.com/EdouardCourty/presidio-client) - A PHP client for interacting with Microsoft Presidio (PII anonymization self-hostable service)
 - [Torrent Tracker Client](https://github.com/EdouardCourty/torrent-tracker-client) - A PHP library for interacting with Torrent trackers (HTTP & UDP)
 - [Kodi NFO Parser](https://github.com/EdouardCourty/kodi-nfo-parser) - A PHP library for parsing and serializing NFO files in the Kodi format
 - [PHP Text Chunker](https://github.com/EdouardCourty/PHPTextChunker) - A lightweight and memory-efficient text chunking PHP library
