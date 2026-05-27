@@ -9,6 +9,7 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [Data Goud Client](https://github.com/EdouardCourty/data-gouv-client) - An automatically-generated data.gouv API(s) client.
 - [Token Bundle](https://github.com/EdouardCourty/token-bundle) - A Symfony bundle for managing secure, typed and revocable tokens.
 - [PHP Presidio Client](https://github.com/EdouardCourty/presidio-client) - A PHP client for interacting with Microsoft Presidio (PII anonymization self-hostable service)
 - [Torrent Tracker Client](https://github.com/EdouardCourty/torrent-tracker-client) - A PHP library for interacting with Torrent trackers (HTTP & UDP)
