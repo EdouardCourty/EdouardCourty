@@ -9,6 +9,7 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [Logger Bundle](https://github.com/EdouardCourty/logger-bundle) - Because I was bored of writing the same logger everywhere
 - [Health Check Plugin](https://github.com/EdouardCourty/wordpress-health-check-plugin) - A WordPress plugin adding a customisable healthcheck endpoint
 - [Data Gouv Client](https://github.com/EdouardCourty/data-gouv-client) - An automatically-generated data.gouv API(s) client.
 - [Token Bundle](https://github.com/EdouardCourty/token-bundle) - A Symfony bundle for managing secure, typed and revocable tokens.
