@@ -9,10 +9,11 @@ Here are some facts about me:
 - 🐿️ I'm always down for a cool side project to work on
 
 My latest projects are :
+- [Rustle](https://github.com/EdouardCourty/rustle) - A super fast forward proxy written in Rust
 - [Logger Bundle](https://github.com/EdouardCourty/logger-bundle) - Because I was bored of writing the same logger everywhere
 - [Health Check Plugin](https://github.com/EdouardCourty/wordpress-health-check-plugin) - A WordPress plugin adding a customisable healthcheck endpoint
-- [Data Gouv Client](https://github.com/EdouardCourty/data-gouv-client) - An automatically-generated data.gouv API(s) client.
-- [Token Bundle](https://github.com/EdouardCourty/token-bundle) - A Symfony bundle for managing secure, typed and revocable tokens.
+- [Data Gouv Client](https://github.com/EdouardCourty/data-gouv-client) - An automatically-generated data.gouv API(s) client
+- [Token Bundle](https://github.com/EdouardCourty/token-bundle) - A Symfony bundle for managing secure, typed and revocable tokens
 - [PHP Presidio Client](https://github.com/EdouardCourty/presidio-client) - A PHP client for interacting with Microsoft Presidio (PII anonymization self-hostable service)
 - [Torrent Tracker Client](https://github.com/EdouardCourty/torrent-tracker-client) - A PHP library for interacting with Torrent trackers (HTTP & UDP)
 - [Kodi NFO Parser](https://github.com/EdouardCourty/kodi-nfo-parser) - A PHP library for parsing and serializing NFO files in the Kodi format
